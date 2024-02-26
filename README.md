@@ -14,7 +14,7 @@
   <img align="center" alt="VueJS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
   <img align="center" alt="Dart" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" />
   <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-  <img align="right" alt="MeuGif" height="300" width="300" src="https://media.discordapp.net/attachments/1062485982563291186/1211681616292880394/meu.gif?ex=65ef1571&is=65dca071&hm=86acc9b1d1dff4e173b784d3e5015d26aa7de14a04f4100be162b1270f5579c6&=" />
+  <img align="right" alt="MeuGif" height="80" width="80" src="https://media.discordapp.net/attachments/1062485982563291186/1211681616292880394/meu.gif?ex=65ef1571&is=65dca071&hm=86acc9b1d1dff4e173b784d3e5015d26aa7de14a04f4100be162b1270f5579c6&=" />
 
 </div>
 
