@@ -1,6 +1,5 @@
-### Olá! Eu sou o Emanoel Busson
+### Olá! Eu sou Emanoel Busson
 
-- 🌱 Eu estou estudando Spring Boot e Vue
 - 📫 contato: emanoelbusson17@gmail.com
 - 😄 Pronouns: ele/dele
 
